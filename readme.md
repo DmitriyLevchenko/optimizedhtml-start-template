@@ -16,7 +16,7 @@
 	<li><a href="https://github.com/agragregra/optimizedhtml-start-template/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub</li>
 	<li>Install WSL (for Windows): <a href="https://webdesign-master.ru/blog/tools/wsl-nodejs-new.html" target="_blank">https://webdesign-master.ru/blog/tools/wsl-nodejs-new.html</a></li>
 	<li>Install Node Modules in project folder: <code>npm i</code></li>
-	<li>Run the template: <code>gulp</code></li>
+	<li>Run the template: <code>npm start</code></li>
 </ol>
 
 <h2>Gulp tasks:</h2>
