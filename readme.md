@@ -4,8 +4,6 @@
 	<img src="https://raw.githubusercontent.com/agragregra/optimizedhtml-start-template/master/app/img/preview.jpg" alt="Start HTML Template">
 </p>
 
-<p>Author: <a href="https://webdesign-master.ru" target="_blank">WebDesign Master</a> | <a href="https://webdesign-master.ru/blog/tools/optimizedhtml.html" target="_blank">Manual</a></p>
-
 <p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, PostCSS, Uglify, gulp-imagemin, Vinyl-FTP, rsync and Bower (libs path) support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
 <p>OptimizedHTML Start Template uses the best practices of web development and optimized for Google PageSpeed.</p>
